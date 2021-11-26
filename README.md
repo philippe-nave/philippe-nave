@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @philippe-nave
 - 👀 I’m interested in tinkering with code, in various languages and environments (shell script, perl, JavaScript)
 - 🌱 I’m currently learning basic JavaScript and brushing up on my Perl skills from decades ago
 - 💞️ I’m not really interested in collaborating here right now. This is my sandbox for various research efforts.
